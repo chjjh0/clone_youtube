@@ -8,22 +8,3 @@
 * axios
 * styled-components
 <br><br><br><br>
-
-# 스크린샷
-■ Main
-<br><br>
-<img src='./portfolioImg/main.PNG' />
-<br><br><br><br>
-
-■ Search video
-<br><br>
-<img src='./portfolioImg/searchBar.PNG' />
-<br><br><br><br>
-
-■ Video list
-<br><br>
-<img src='./portfolioImg/searchResult.PNG' />
-<br><br><br><br>
-
-
-
